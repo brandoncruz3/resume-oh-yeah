@@ -1,6 +1,26 @@
 ---
 tags: introduction
-title: About Me
+title: Professional Summary
 ---
 
-I am a seasoned DevOps professional with over two decades of experience spanning roles as a software engineer, systems administrator, and Client Technology Specialist. Currently, I serve as a Staff DevOps Engineer at Ad Hoc, bringing 17+ years of expertise in full-stack engineering, software development, server infrastructure management, and data center operations across diverse multi-platform environments. My career has taken me across industries including manufacturing, education, and civic technology, where I’ve honed my passion for problem-solving and implementing innovative solutions. I specialize in designing fully automated CI/CD pipelines to reduce deployment time and increase deployment frequency, all while ensuring the highest standards of efficiency and reliability. With strong skills in infrastructure as code, monitoring and alerting systems, and establishing security policies, I’ve consistently delivered results that reduce infrastructure costs, improve system performance, and enhance operational stability. I am driven by a commitment to continuous learning and professional growth, always seeking opportunities to make a meaningful impact through my work.
+Seasoned DevOps Engineer with over 20 years of experience spanning software engineering, systems administration, and client technology support. Currently serving as a Staff DevOps Engineer at Ad Hoc, bringing 17+ years of expertise in full-stack engineering, software development, server infrastructure management, and data center operations.
+<br>
+Proven track record across industries such as manufacturing, education, and civic technology, with a passion for solving complex problems and implementing innovative solutions. Specializes in designing automated CI/CD pipelines to streamline deployments, enhance efficiency, and improve system reliability.
+<br>
+Skilled in infrastructure as code, monitoring and alerting systems, and implementing security policies that reduce costs and improve operational stability. Driven by continuous learning, professional growth, and a dedication to delivering impactful results.
+</br>
+
+### Soft Skills
+
+-   Leadership
+    -   People Management
+    -   Tech Lead Experience
+    -   1:1s
+    -   Performance Reviews
+    -   Coaching
+    -   Mentoring
+    -   Interviewing Candidates
+    -   Active Listening
+    -   Team Development
+    -   Process Development
+    -   Stakeholder Engagement

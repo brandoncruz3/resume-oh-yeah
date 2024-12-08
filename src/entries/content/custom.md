@@ -3,9 +3,4 @@ tags: custom
 title: Interests
 ---
 
-This is custom content. You can add [anything you want](https://www.youtube.com/watch?v=dQw4w9WgXcQ) in here.
-
-* Reading
-* Punk Rock
-* Climbing
-* Archery
+Currently preparing to take the AWS Solutions Architect Professional Exam as well as the Certified Kubernetes Administrator exam. Huge fan of the Los Angeles Dodgers, Las Vegas Raiders, and Sacramento Kings. I know, I'm sick!

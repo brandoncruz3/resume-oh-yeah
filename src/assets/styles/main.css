@@ -371,12 +371,12 @@ body {
     background-position: 0 0;
     background-image: radial-gradient(
         circle,
-        #1e90ff,
+        #1e90ff 0,
         #e2f1ff,
         #007df6,
         #6cb7ff,
         #2dafe6,
-        #0069cf
+        #0069cf 100%
     );
     animation-duration: 14s;
     animation-iteration-count: infinite;
@@ -907,8 +907,8 @@ a:focus:hover {
 .actions__btn {
     border: 0;
     padding: 0;
-    background-color: transparent;
-    -webkit-appearance: none;
+    /* background-color: transparent;
+    -webkit-appearance: none; */
     display: flex;
     justify-content: center;
     align-items: center;

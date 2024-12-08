@@ -1,8 +1,9 @@
 {
     "titles": {
-        "experience": "Work Experience",
+        "experience": "Professional Experience",
         "education": "Education",
         "skills": "Skills",
+        "certifications": "Certifications/Licenses",
         "languages": "Languages",
         "open_source": "Open Source"
     },

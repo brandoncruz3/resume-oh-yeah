@@ -29,6 +29,11 @@
                 {% endif %}
             </p>
         {% endif %}
+
+        {% if entry.data.certificationId %}
+            <p class="entry__certification p-org h-card"></p>
+            <span class="p-name">{{ entry.data.certificationId }}</span>
+        {% endif %}
     </div>
 
     {% if entry.templateContent %}
